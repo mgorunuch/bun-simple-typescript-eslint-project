@@ -1,0 +1,13 @@
+.DS_Store
+
+/*
+
+!src
+
+!bun.lockb
+!package.json
+!.env.default
+!.eslintrc.js
+!tsconfig.json
+!.gitignore
+!README.md

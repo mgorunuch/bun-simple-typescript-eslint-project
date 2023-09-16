@@ -1,0 +1,18 @@
+{
+  "name": "bun-simple-typescript-eslint-project",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run ./src/index.ts",
+    "start:watch": "bun run --watch ./src/index.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
